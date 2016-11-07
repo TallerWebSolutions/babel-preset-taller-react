@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-taller-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Taller react Babel preset.",
   "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
   "homepage": "https://github.com/TallerWebSolutions/babel-preset-taller-react#readme",
@@ -15,7 +15,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-preset-react": "^6.16.0",
-    "babel-preset-taller": "^0.1.0"
+    "babel-preset-taller": "^0.1.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

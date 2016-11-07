@@ -1,0 +1,27 @@
+{
+  "name": "babel-preset-taller-react",
+  "version": "0.1.0",
+  "description": "Taller react Babel preset.",
+  "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
+  "homepage": "https://github.com/TallerWebSolutions/babel-preset-taller-react#readme",
+  "bugs": {
+    "url": "https://github.com/TallerWebSolutions/babel-preset-taller-react/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TallerWebSolutions/babel-preset-taller-react.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-taller": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "preset"
+  ]
+}
